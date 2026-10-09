@@ -1,4 +1,6 @@
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge) 
+![Static Badge](https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge)
+
 
 # Symulator ruletki
 
@@ -51,6 +53,10 @@ Zakład na czerwony lub czarny wypłaca dwukrotność stawki. Trafienie zieloneg
 
 Gra kończy się po wpisaniu `q` albo po utracie całego bankrolla.
 
+## Autor projektu
+- Miłosz Kowalski
+
 ## Uwaga
 
 Projekt ma charakter edukacyjny i rozrywkowy. Wynik każdej rundy jest losowany pseudolosowo i nie stanowi podstawy do przewidywania wyników prawdziwej ruletki.
+
