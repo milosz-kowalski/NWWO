@@ -1,5 +1,9 @@
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge) 
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Git-%23F03C2E?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Github-%23181717?style=for-the-badge)
+
+
 
 
 # Symulator ruletki
