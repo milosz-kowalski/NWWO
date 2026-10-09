@@ -13,6 +13,10 @@ Interaktywny symulator europejskiej ruletki napisany w Pythonie. Program pozwala
 - początkowy bankroll w wysokości 1000 zł
 - możliwość zakończenia gry w dowolnym momencie
 
+## Technologie
+
+- Python (moduły importowane random, time)
+
 ## Wymagania
 
 - Python 3.8 lub nowszy
