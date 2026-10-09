@@ -1,10 +1,12 @@
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge)
+
 # Symulator ruletki
 
 Interaktywny symulator europejskiej ruletki napisany w Pythonie. Program pozwala obstawiać kolor pola, losuje wynik od 0 do 36 i na bieżąco aktualizuje stan konta gracza.
 
 ## Funkcje
 
-- europejska ruletka z polami od 0 do 36
+- europejska ruletka z polami od 0 do 36 
 - zakłady na kolor czerwony, czarny lub zielony
 - animacja kręcenia kołem
 - walidacja wybranego koloru i wysokości stawki
