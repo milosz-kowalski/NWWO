@@ -1,0 +1,18 @@
+#Środowisko wirtualne
+venv/
+
+# Pliki tymczasowe Pythona
+
+# Pliki narzędzi testujących
+
+
+# Lokalne bazy danych
+
+#Logi aplikacji
+
+# Pliki systemowe
+# System Windows
+Thumds.db
+
+# Inne pliki i foldery
+zadania.txt
