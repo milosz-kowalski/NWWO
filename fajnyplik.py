@@ -154,3 +154,8 @@
  "nbformat": 4,
  "nbformat_minor": 5
 }
+from tasks import add_task
+print ("Nauka Gita! :)")
+lista_zadan = []
+add_task(lista_zadan)
+print("Aktualna lista zadań:", lista_zadan)
