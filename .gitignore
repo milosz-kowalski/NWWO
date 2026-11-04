@@ -2,6 +2,7 @@
 venv/
 
 # Pliki tymczasowe Pythona
+__pycache__
 
 # Pliki narzędzi testujących
 
