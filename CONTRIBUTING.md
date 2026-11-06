@@ -59,19 +59,12 @@ git commit -m"docs: zaktualizuj readme.md"
 ## Zgłoszenia (Issues)
 Przed utworzeniem zgłoszenia sprawdź, czy podobne już istnieje.
 
-Każde zgłoszenie powinno zawierać:
-- jasny tytuł,
-- opis problemu lub propozycji,
-- kroki do odtworzenia (jeśli to bug),
-- oczekiwane zachowanie,
-- zrzuty ekranu lub logi (jeśli dostępne),
-- priorytet lub wpływ na projekt.
+Każde zgłoszenie powinno być w ramach adekwatnego TEMPLATE
 
 **Issues** służą do:
 - zgłaszania błędów,
 - proponowania funkcji,
-- dyskusji technicznych,
-- planowania zadań.
+- zgłaszania dokumentacji,
 
 ## Pull Requests
 
