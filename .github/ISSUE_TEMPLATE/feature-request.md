@@ -9,7 +9,7 @@ assignees: ""
 ## Opis funkcjonalności
 Krótki i jasny opis proponowanej funkcjonalności
 
-##Problem do rozwiązania
+## Problem do rozwiązania
 Jaki problem rozwiązuje nowa funkcjonalność
 
 ## Proponowane zachowanie
