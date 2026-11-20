@@ -1,1 +1,7 @@
-print("Pierwszy commit do --amend")
+print("Linijka 1")
+print("Linijka 2")
+
+print("Zmiana 1")
+print("Zmiana 2")
+print("Zmiana 3")
+print("Zmiana 4")
